@@ -267,6 +267,7 @@ public class SchedulerSimulation {
             addProcessToQueue(process, processQueue, processMap);
         }
         
+        
         // Start of the scheduler simulation
         System.out.println(Colors.BOLD + Colors.GREEN + 
                           "╔════════════════════════════════════════════════════════════════════════════════╗" + 
