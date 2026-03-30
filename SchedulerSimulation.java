@@ -197,10 +197,11 @@ class Process implements Runnable {
 
 public class SchedulerSimulation {
     
-    // FEATURE 2: Static counter for context switches
+
+     // FEATURE 2: Static counter for context switches
     // Incremented each time a new process starts running
     private static int contextSwitchCount = 0;
-    
+   
     // FEATURE 3: List to store all completed processes for summary
     private static List<Process> completedProcesses = new ArrayList<>();
 
@@ -358,7 +359,7 @@ public class SchedulerSimulation {
         System.out.println(Colors.BOLD + Colors.BRIGHT_GREEN + 
                           "╚════════════════════════════════════════════════════════════════════════════════╝" + 
                           Colors.RESET + "\n");
-        
+      
         // FEATURE 2: Display total context switches at the end of simulation
         System.out.println(Colors.BOLD + Colors.BRIGHT_YELLOW + 
                           "╔════════════════════════════════════════════════════════════════════════════════╗" + 
