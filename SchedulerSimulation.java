@@ -379,7 +379,7 @@ public class SchedulerSimulation {
                           "╚════════════════════════════════════════════════════════════════════════════════╝" + 
                           Colors.RESET + "\n");
         
-        // FEATURE 3: Display waiting time summary table at the end
+       // FEATURE 3: Display waiting time summary table at the end
         displayWaitingTimeSummary();
     }
     
@@ -394,7 +394,7 @@ public class SchedulerSimulation {
         processQueue.add(thread);
         
         // Map the thread to the process, so we can track the process associated with each thread
-        processMap.put(thread, process);
+        processMap.put(thread, process); 
         
         // FEATURE 1: Updated output message to include priority
         // Example: "P1 (Priority: 4) enters the ready queue..."
