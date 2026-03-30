@@ -33,89 +33,93 @@ Document your development process as you work on the assignment. Add entries sho
 ## Your Development Log:
 
 ### Entry 1 - [Date and Time]
-**What I did**: 
+**What I did**: I started working on the OS assignment and created the project repository on GitHub.
 
-**Details**: 
+**Details**: Created the DEVELOPMENT_LOG.md file
 
-**Challenges**: 
+Understood the project requirements
 
-**Solution**: 
+**Challenges**: I found it difficult to understand some of the requirements.
 
-**Time spent**: 
+**Solution**: I reviewed the instructions and checked similar examples to understand the correct format.
+
+**Time spent**: 1h
 
 ---
 
 ### Entry 2 - [Date and Time]
-**What I did**: 
+**What I did**: I continued working on the assignment and started implementing the required task
 
-**Details**: 
+**Details**: Wrote parts of the code
+Tested the program and checked for errors
 
-**Challenges**: 
+**Challenges**: I faced some errors while running the code.
+ا
 
-**Solution**: 
+**Solution**: I debugged the code and searched online to fix the issues.
 
-**Time spent**: 
+**Time spent**: 1.30h
 
 ---
 
 ### Entry 3 - [Date and Time]
-**What I did**: 
+**What I did**: Developed the scheduling functionality
 
-**Details**: 
+**Details**: Implemented process execution logic.
 
-**Challenges**: 
+**Challenges**: Encountered logical errors.
 
-**Solution**: 
+**Solution**: Fixed issues through debugging
 
-**Time spent**: 
+**Time spent**: 2 hours
 
 ---
 
 ### Entry 4 - [Date and Time]
-**What I did**: 
+**What I did**:Executed and tested the program 
 
-**Details**: 
+**Details**: Tested with multiple input cases
 
-**Challenges**: 
+**Challenges**: Results were not accurate at first.
 
-**Solution**: 
+**Solution**: Corrected the calculation logic
 
-**Time spent**: 
+**Time spent**: 1 hour
 
 ---
 
 ### Entry 5 - [Date and Time]
-**What I did**: 
+**What I did**:Completed documentation and README. 
 
-**Details**: 
+**Details**: Described how the program works.
 
-**Challenges**: 
+**Challenges**: Markdown formatting issues.
 
-**Solution**: 
+**Solution**: Followed formatting examples
 
-**Time spent**: 
+**Time spent**: 1.30h
 
 ---
 
 ### Entry 6 - [Optional - Date and Time]
-**What I did**: 
+**What I did**: Reviewed the project before submission.
 
-**Details**: 
+**Details**: Checked for errors and missing parts.
 
-**Challenges**: 
+**Challenges**: Small mistakes found
 
-**Solution**: 
+**Solution**: Fixed them.
 
-**Time spent**: 
+**Time spent**:30h 
 
 ---
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [7.30 hours]
 
-**Most challenging part**: 
+**Most challenging part**: Fixed them.
 
-**Most interesting learning**: 
+**Most interesting learning**: Fixed them.
 
-**What I would do differently next time**: 
+**What I would do differently next time**: start earlier and test more frequently
